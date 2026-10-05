@@ -1,0 +1,96 @@
+{
+  "manifest_version": 3,
+  "name": "Orchid Bloom Theme",
+  "version": "1.0.0",
+  "description": "A calm pastel Chrome theme in dusty orchid, pale lilac, and soft warm white.",
+  "icons": {
+    "128": "logo/logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        183,
+        164,
+        194
+      ],
+      "frame_inactive": [
+        183,
+        164,
+        194
+      ],
+      "toolbar": [
+        237,
+        229,
+        239
+      ],
+      "tab_text": [
+        81,
+        70,
+        83
+      ],
+      "tab_background_text": [
+        81,
+        70,
+        83
+      ],
+      "tab_background_text_inactive": [
+        81,
+        70,
+        83
+      ],
+      "bookmark_text": [
+        81,
+        70,
+        83
+      ],
+      "toolbar_text": [
+        81,
+        70,
+        83
+      ],
+      "toolbar_button_icon": [
+        81,
+        70,
+        83
+      ],
+      "omnibox_background": [
+        255,
+        252,
+        254
+      ],
+      "omnibox_text": [
+        81,
+        70,
+        83
+      ],
+      "ntp_background": [
+        250,
+        247,
+        249
+      ],
+      "ntp_text": [
+        81,
+        70,
+        83
+      ],
+      "ntp_link": [
+        151,
+        121,
+        166
+      ],
+      "ntp_header": [
+        151,
+        121,
+        166
+      ],
+      "button_background": [
+        183,
+        164,
+        194
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

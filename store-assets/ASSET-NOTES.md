@@ -1,0 +1,2 @@
+Two English screenshots 1280x800; promos 440x280 and 1400x560. Headless Chromium renders illustrative browser UI without shortcuts. Introduction background #F3F4F6 differs from all four palette colors. GPT Image orchid logo exported only as transparent 128x128 PNG. Google logo tint #C19BB4 sampled from supplied installed Chrome screenshot; window controls use dark text to match.
+Pastel revision: dusty orchid #B7A4C2, muted lilac #9779A6, soft mauve #D8C3D5, petal blush #F0E1E8. Toolbar #EDE5EF, new tab #FAF7F9. Logo #A995B5.
