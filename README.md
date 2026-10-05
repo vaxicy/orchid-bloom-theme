@@ -51,25 +51,37 @@ The four tones on the store introduction card — Dusty Orchid, Muted Lilac, Sof
 4. Click **Load unpacked** and select this folder.
 5. The theme applies immediately; reset it any time under Settings, then Appearance, then Themes.
 
+Open a new tab after loading to see the tinted Google wordmark — Chrome draws it from the theme's new tab colour.
+
 ### From the Chrome Web Store
 
 The store listing is in preparation. Until it is live, load the unpacked copy with the steps above.
 
 ## Preview
 
+Every image below is an illustrative HTML/CSS layout rendered by headless Chromium from the exact `manifest.json` colours, calibrated against a real installed Chrome session. They are not native Chrome captures, so the fine details — window glyphs, hover states, and the tinted Google wordmark — follow your own browser and OS after install.
+
+### Store screenshots · 1280×800
+
+**Browser preview** — the themed window on the new tab page, bookmarks bar included.
+
 ![Orchid Bloom Theme browser preview](https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/screenshots/en/screenshot-1-browser.png)
+
+**Colour palette** — the four palette tones and the role each one plays.
 
 ![Orchid Bloom Theme color palette](https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/screenshots/en/screenshot-2-introduction.png)
 
-### Store promo tiles
+### Promo tiles
 
-![Orchid Bloom Theme marquee](https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/promo/1400x560.png)
+**Small tile · 440×280** — the orchid mark, the theme name and its one-line promise, centred on a soft grey field.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/promo/440x280.png" width="440" alt="Orchid Bloom Theme promo tile">
+  <img src="https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/promo/440x280.png" width="440" alt="Orchid Bloom Theme small promo tile">
 </p>
 
-These are illustrative HTML/CSS layouts rendered by headless Chromium from the exact `manifest.json` colours, calibrated against a real installed Chrome session. They are not native Chrome captures, so the fine details — window glyphs, hover states, and the tinted Google wordmark — follow your own browser and OS after install.
+**Marquee tile · 1400×560** — the tagline on the left and a live browser mock-up on the right, over a petal-blush corner.
+
+![Orchid Bloom Theme marquee](https://raw.githubusercontent.com/vaxicy/orchid-bloom-theme/main/store-assets/promo/1400x560.png)
 
 ## Files
 
